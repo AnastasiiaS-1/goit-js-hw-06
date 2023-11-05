@@ -9,3 +9,4 @@ function getInputName(event) {
     } 
     spanNameEl.textContent = 'Anonymous'   
 }
+
